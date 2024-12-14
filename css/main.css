@@ -1,0 +1,19 @@
+.footer{
+    text-align: center;
+}
+
+.clearfix{
+    clear: left;
+}
+.icon{
+    float: left;
+    width: 33%;
+}
+
+i{
+   
+    border: 4px;
+    border-style: solid;
+ border-radius: 45px;
+ 
+}
